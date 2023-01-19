@@ -1,9 +1,11 @@
-## 👩🏽‍💻 Welcome to my lab
 
+## Welcome to my lab 👩🏽‍💻 
 
 ### Myrela Bauman  
 
+
 > /'mi.ɾɛ.la bau.man'/
+
 
 Epidemiologist by day, data science geek by night.
 
@@ -14,5 +16,7 @@ When I’m not analysing disease patterns in R or Python, you'll find me chillin
 - For the book lovers, find me on goodreads: https://www.goodreads.com/myrelabauman
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyreLab)](https://github.com/MyreLab/github-readme-stats)
+
 
