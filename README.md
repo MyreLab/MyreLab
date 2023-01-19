@@ -17,6 +17,6 @@ When I’m not analysing disease patterns in R or Python, you'll find me chillin
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyreLab&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyreLab&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
