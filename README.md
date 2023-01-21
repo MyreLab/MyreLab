@@ -13,7 +13,7 @@ When I’m not analysing disease patterns in R or Python, you'll find me chillin
 
 - Check out my latest projects: https://github.com/MyreLab?tab=repositories
 - Find me on LinkedIn: https://www.linkedin.com/in/myrelabauman/
-- For the book lovers, find me on goodreads: https://www.goodreads.com/myrelabauman
+- (For the book lovers) stalk my reading habits: https://www.goodreads.com/myrelabauman
 
 
 
