@@ -10,7 +10,7 @@
 Epidemiologist by day, data science geek by night.
 
 When I’m not analysing disease patterns in R or Python, you'll find me chilling with
-<a href="https://github.com/MyreLab/MyreLab/blob/3255dd8f381b79eafbf21f92cd84a21aebd174e2/euclid.jpeg" target="_blank"> Euclid</a>, getting lost in a good book, slaying dragons on the PS5, or planning my next hike.
+<a href="https://raw.githubusercontent.com/MyreLab/MyreLab/3255dd8f381b79eafbf21f92cd84a21aebd174e2/euclid.jpeg" target="_blank"> Euclid</a>, getting lost in a good book, slaying dragons on the PS5, or planning my next hike.
 
 - Check out my <a href="https://github.com/MyreLab?tab=repositories" target="_blank"> latest projects</a>
 - Find me on <a href="https://www.linkedin.com/in/myrelabauman/" target="_blank"> LinkedIn</a> 
