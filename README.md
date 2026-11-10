@@ -15,3 +15,9 @@ Most of what I build lives behind HIPAA walls, so what you'll find here are my j
 - (For the book lovers) stalk my [reading habits](https://www.goodreads.com/myrelabauman)
 
 
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MyreLab&theme=tokyonight&hide_border=true" alt="My GitHub contribution streak"/>
+
+<a href="https://www.gitanimals.org/">
+  <img src="https://render.gitanimals.org/farms/MyreLab" width="600" height="300" alt="My GitAnimals farm: pets that grow with my GitHub contributions"/>
+</a>
