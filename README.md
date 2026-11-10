@@ -14,7 +14,7 @@ Most of what I build lives behind HIPAA walls, so what you'll find here are my j
 - Find me on [LinkedIn](https://www.linkedin.com/in/myrelabauman/)
 - (For the book lovers) stalk my [reading habits](https://www.goodreads.com/myrelabauman)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <table>
   <tr>
