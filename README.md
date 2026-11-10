@@ -1,3 +1,7 @@
+
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&section=header&reversal=false&text=hi%2C+I'm+Myrela.&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=35&fontAlignY=56&animation=fadeIn&rotate=0&stroke=FFFFFF&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
+
+
 ## Welcome to my lab 👩🏽‍💻
 
 ### Myrela Bauman
@@ -13,6 +17,7 @@ Most of what I build lives behind HIPAA walls, so what you'll find here are my j
 - Check out my [side projects](https://github.com/MyreLab?tab=repositories)
 - Find me on [LinkedIn](https://www.linkedin.com/in/myrelabauman/)
 - (For the book lovers) stalk my [reading habits](https://www.goodreads.com/myrelabauman)
+  <br><br> 
 
 ## GitHub Stats
 
@@ -23,10 +28,4 @@ Most of what I build lives behind HIPAA walls, so what you'll find here are my j
         <img src="https://render.gitanimals.org/farms/MyreLab" width="420" height="210" alt="My GitAnimals farm: pets that grow with my GitHub contributions"/>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MyreLab&theme=tokyonight&hide_border=true" width="420" alt="My GitHub contribution streak"/>
-    </td>
-  </tr>
 </table>
